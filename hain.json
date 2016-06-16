@@ -1,7 +1,7 @@
 {
   "homepage": "https://github.com/appetizermonster/hain",
   "licence": "MIT",
-  "version": "0.3.0",
+  "version": "0.4.1",
   "architecture": {
       "64bit": {
           "url": "https://github.com/appetizermonster/hain/releases/download/v0.4.1/Hain-x64-v0.4.1.zip",
