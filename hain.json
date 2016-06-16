@@ -4,12 +4,12 @@
   "version": "0.3.0",
   "architecture": {
       "64bit": {
-          "url": "https://github.com/appetizermonster/hain/releases/download/v0.3.0/Hain-x64-v0.3.0.zip",
-          "hash": "41ef5d97bde653aa3e38a287bb73b6476792ac7f8d5b8a3f2444c0b6ea5cfa70"
+          "url": "https://github.com/appetizermonster/hain/releases/download/v0.4.1/Hain-x64-v0.4.1.zip",
+          "hash": "d8912b720e28ac2a52661f6f302a2b7960a90e81e179e538cf04cbb07ba82f7b"
       },
       "32bit": {
-          "url": "https://github.com/appetizermonster/hain/releases/download/v0.3.0/Hain-ia32-v0.3.0.zip",
-          "hash": "fc6abf1fa978778ed332b616e9671fb474ebba323f5db3f560adfff729eb298e"
+          "url": "https://github.com/appetizermonster/hain/releases/download/v0.4.1/Hain-ia32-v0.4.1.zip",
+          "hash": "3285dda1ee874d0aea02a725c83c8c06b1b63a4e8d71465b4e4b988fccc4efc6"
       }
   },
   "bin": "hain.exe"
