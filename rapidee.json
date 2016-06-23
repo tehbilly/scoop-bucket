@@ -1,0 +1,16 @@
+{
+  "homepage": "http://www.rapidee.com/",
+  "licence": "MIT",
+  "version": "9.0-build-930",
+  "architecture": {
+      "64bit": {
+          "url": "http://www.rapidee.com/download/RapidEEx64.zip",
+          "hash": "25eb6c62d0d931478dadc6de5c21a49c7d5dcb343d22819a65fa61abc614ce40"
+      },
+      "32bit": {
+          "url": "http://www.rapidee.com/download/RapidEE.zip",
+          "hash": "7ac95461a05f6c4eeab8de96406c8a362a9f58d64f81c0d95550331b0e255d5a"
+      }
+  },
+  "bin": "rapidee.exe"
+}
