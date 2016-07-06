@@ -1,0 +1,11 @@
+{
+  "homepage": "https://github.com/cmderdev/cmder",
+  "licence": "GPLv3",
+  "version": "1.2.8.12",
+  "url": "https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.8.12/Greenshot-NO-INSTALLER-1.2.8.12-RELEASE.zip",
+  "hash": "c9043219d08dddbf2e44bf2b3f1d861771d6c26312ddc0b04f1360e4ffcdd2af",
+  "bin": "Greenshot.exe",
+  "shortcuts": [
+    ["Greenshot.exe", "Greenshot"]
+  ]
+}
