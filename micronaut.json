@@ -1,0 +1,15 @@
+{
+    "homepage": "https://micronaut.io",
+    "licence": "https://github.com/micronaut-projects/micronaut-core/blob/master/LICENSE",
+    "version": "1.1.0",
+    "url": "https://github.com/micronaut-projects/micronaut-core/releases/download/v1.1.0/micronaut-1.1.0.zip",
+    "hash": "21595867692f61317a20c8222c88c86a6599663461b2bed1d1922e6643cc84b9",
+    "extract_dir": "micronaut-1.0.0",
+    "bin": "bin/mn.bat",
+    "checkver": {
+        "github": "https://github.com/micronaut-projects/micronaut-core"
+    },
+    "autoupdate": {
+        "url": "https://github.com/micronaut-projects/micronaut-core/releases/download/v$version/micronaut-$version.zip"
+    }
+}
