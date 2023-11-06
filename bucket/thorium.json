@@ -18,6 +18,14 @@
         ]
     ],
 
+    "shortcuts": [
+        [
+            "BIN\\thorium.exe",
+            "Thorium",
+            "--user-data-dir=\"$dir\\USER_DATA\" --allow-outdated-plugins --disable-logging --disable-breakpad"
+        ]
+    ],
+
     "persist": [
         "USER_DATA"
     ],
