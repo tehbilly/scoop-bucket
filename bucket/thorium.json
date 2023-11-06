@@ -11,10 +11,8 @@
     "bin": [
         [
             "BIN\\thorium.exe",
-            "--user-data-dir=\"$dir\\USER_DATA\"",
-            "--allow-outdated-plugins",
-            "--disable-logging",
-            "--disable-breakpad"
+            "thorium",
+            "--user-data-dir=\"$dir\\USER_DATA\" --allow-outdated-plugins --disable-logging --disable-breakpad"
         ]
     ],
 
