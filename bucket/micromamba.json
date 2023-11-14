@@ -1,0 +1,17 @@
+{
+    "##": "This file is a template. Fill the blanks and add or remove fields as necessary.",
+    "version": "1.5.1-2",
+    "description": "A C++ conda implementation",
+    "homepage": "https://github.com/mamba-org/mamba",
+    "license": "BSD-3-Clause",
+    "url": "https://github.com/mamba-org/micromamba-releases/releases/download/1.5.1-2/micromamba-win-64#/micromamba.exe",
+    "hash": "dea8c1478ddf3b996167e868654b92664b23d1b0931b2f782933ce1ba30ca06f",
+    "bin": "micromamba.exe",
+    "checkver": {
+        "github": "https://github.com/mamba-org/micromamba-releases",
+        "regex": "micromamba ([\\d.-]+)"
+    },
+    "autoupdate": {
+        "url": "https://github.com/mamba-org/micromamba-releases/releases/download/$version/micromamba-win-64"
+    }
+}
