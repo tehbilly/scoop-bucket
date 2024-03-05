@@ -4,7 +4,7 @@
     "description": "A C++ conda implementation",
     "homepage": "https://github.com/mamba-org/mamba",
     "license": "BSD-3-Clause",
-    "url": "https://github.com/mamba-org/micromamba-releases/releases/download/1.5.7-0/micromamba-win-64",
+    "url": "https://github.com/mamba-org/micromamba-releases/releases/download/1.5.7-0/micromamba-win-64#/micromamba.exe",
     "hash": "4328776bd044e30904ddc9334ba4352a8f7812e717e8b1f7e11c0664c67015cd",
     "bin": "micromamba.exe",
     "checkver": {
@@ -12,6 +12,6 @@
         "regex": "micromamba ([\\d.-]+)"
     },
     "autoupdate": {
-        "url": "https://github.com/mamba-org/micromamba-releases/releases/download/$version/micromamba-win-64"
+        "url": "https://github.com/mamba-org/micromamba-releases/releases/download/$version/micromamba-win-64#/micromamba.exe"
     }
 }
